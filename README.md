@@ -10,6 +10,11 @@ you can now ignore your friends scream at you because thats mean!!
 ![](https://i.imgur.com/pGMF4Zg.png)
 (theme off)
 
+
+
+![](https://i.imgur.com/G1z94kX.png)
+themes tab on vencord
+
 # installation methodss sss ssss s
 vencord (:p)
 go to `https://github.com/soswav/readiscord/blob/main/readiscord.theme.css`, click on `raw` then copy the link of the page
