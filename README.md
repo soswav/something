@@ -40,7 +40,9 @@ after installing git you can finally run
 
 `git clone https://github.com/soswav/readiscord/` then go to the directory and copy the readiscord.theme.css file and paste it on your themes folder
 
-or for linux users, `git clone https://github.com/soswav/readiscord/ && cp ~/readiscord/readiscord.theme.css /path/to/your/themes/folder/`
+shortcut for windows users: `git clone https://soswav/readiscord/ && copy /path/to/clone /path/to/themes`
+
+or for linux users, `git clone https://github.com/soswav/readiscord/ && cp ~/readiscord/readiscord.theme.css /path/to/themes/`
 
 todo list:
 add a uppercase option (never)
