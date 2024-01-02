@@ -25,20 +25,21 @@ download the `https://github.com/soswav/readiscord/blob/main/readiscord.theme.cs
 
 ## super cool gamer way
 ### download git 
-on linux:
-on debian/ubuntu use `sudo apt install git`
-on arch use `sudo pacman -S git`
-on fedora use `sudo dnf install git`
+#### on linux:
+##### on debian/ubuntu use `sudo apt install git`
+##### on arch use `sudo pacman -S git`
+##### on fedora use `sudo dnf install git`
 
-on windows:
+#### on windows:
 go to `https://git-scm.com/` and download install it, make sure to click on something with "path" (so you can use command "git")
 
-on macos:
+#### on macos:
 figure it out
 
 after installing git you can finally run
 
 `git clone https://github.com/soswav/readiscord/` then go to the directory and copy the readiscord.theme.css file and paste it on your themes folder
+
 or for linux users, `git clone https://github.com/soswav/readiscord/ && cp ~/readiscord/readiscord.theme.css /path/to/your/themes/folder/`
 
 todo list:
