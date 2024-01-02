@@ -1,0 +1,28 @@
+/* ==discrdthememe== */
+@name         readiscord
+@namespace    github.com/soswav
+@version      0.0.1
+@license      MIT License
+@author       sleepingonsoundwaves
+@description  for those people with hoofdaphobia!
+@homepageURL  https://github.com/myusername/mytheme
+@updateURL    https://github.com/myusername/mytheme/main.css
+/* ==/real!== */
+
+/*
+ * credits:
+ * - og creator: Commenter25 (https://github.com/Commenter25)
+ */
+
+/* code goes down 'ere, wowie */
+  span {
+      text-transform: lowercase !important;
+  }
+
+  div {
+      text-transform: lowercase !important;
+  }
+
+  h2 {
+      text-transform: lowercase !important;
+  }
