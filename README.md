@@ -4,6 +4,12 @@ for those people with hoofdaphobia! (or you don't like uppercase..)
 this is a fork of the [reavision](https://github.com/Commenter25/userstuffs/blob/main/raevision/raevision.user.css?raw=1) userstyle thing for browsers (which makes everything lowercase, woah!)
 you can now ignore your friends scream at you because thats mean!!
 
+# screenshots
+![](https://i.imgur.com/bgEZ21b.png)
+(theme on)
+![](https://i.imgur.com/pGMF4Zg.png)
+
+
 # installation methodss sss ssss s
 vencord (:p)
 go to `https://github.com/soswav/readiscord/blob/main/readiscord.theme.css`, click on `raw` then copy the link of the page
