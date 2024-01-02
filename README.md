@@ -8,7 +8,7 @@ you can now ignore your friends scream at you because thats mean!!
 ![](https://i.imgur.com/bgEZ21b.png)
 (theme on)
 ![](https://i.imgur.com/pGMF4Zg.png)
-
+(theme off)
 
 # installation methodss sss ssss s
 vencord (:p)
