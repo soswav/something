@@ -16,15 +16,15 @@ you can now ignore your friends scream at you because thats mean!!
 themes tab on vencord
 
 # installation methodss sss ssss s
-vencord (:p)
+## vencord (:p)
 go to `https://github.com/soswav/readiscord/blob/main/readiscord.theme.css`, click on `raw` then copy the link of the page
 go to `themes` then `online themes` and paste it below
 
-other discord modifiers
+## other discord modifiers
 download the `https://github.com/soswav/readiscord/blob/main/readiscord.theme.css` and paste in  your themes folder, it should (hopefully) work nicely!
 
-super cool gamer way
-download git 
+## super cool gamer way
+### download git 
 on linux:
 on debian/ubuntu use `sudo apt install git`
 on arch use `sudo pacman -S git`
