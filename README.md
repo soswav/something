@@ -31,10 +31,12 @@ download the `https://github.com/soswav/readiscord/blob/main/readiscord.theme.cs
 ##### on fedora use `sudo dnf install git`
 
 #### on windows:
-go to `https://git-scm.com/` and download install it, make sure to click on something with "path" (so you can use command "git")
+go to `https://git-scm.com/` and download it, make sure to click on something with "path" (so you can use command "git")
 
 #### on macos:
 figure it out
+
+### installing it
 
 after installing git you can finally run
 
