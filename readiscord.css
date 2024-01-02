@@ -15,22 +15,8 @@
  */
 
 /* code goes down 'ere, wowie */
-  span {
-      text-transform: lowercase !important;
-  }
+span, div, h2, input, button {
+   text-transform: lowercase !important;
+}
 
-  div {
-      text-transform: lowercase !important;
-  }
-
-  h2 {
-      text-transform: lowercase !important;
-  }
-
-  input {
-      text-transform: lowercase !important;
-  }
-
-  button {
-      text-transform: lowercase !important;
-  }
+/* shit code but works! */
