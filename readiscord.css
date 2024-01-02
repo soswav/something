@@ -26,3 +26,11 @@
   h2 {
       text-transform: lowercase !important;
   }
+
+  input {
+      text-transform: lowercase !important;
+  }
+
+  button {
+      text-transform: lowercase !important;
+  }
