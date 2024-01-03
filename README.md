@@ -17,11 +17,11 @@ themes tab on vencord
 
 # installation methodss sss ssss s
 ## vencord (:p)
-go to `https://github.com/soswav/readiscord/blob/main/readiscord.theme.css`, click on `raw` then copy the link of the page
+go to `https://github.com/soswav/readiscord/blob/main/readiscord.css`, click on `raw` then copy the link of the page
 go to `themes` then `online themes` and paste it below
 
 ## other discord modifiers
-download the `https://github.com/soswav/readiscord/blob/main/readiscord.theme.css` and paste in  your themes folder, it should (hopefully) work nicely!
+download the `https://github.com/soswav/readiscord/blob/main/readiscord.css` and paste in  your themes folder, it should (hopefully) work nicely!
 
 ## super cool gamer way
 ### download git 
@@ -44,7 +44,9 @@ after installing git you can finally run
 
 shortcut for windows users: `git clone https://soswav/readiscord/ && copy /path/to/clone /path/to/themes`
 
-or for linux users, `git clone https://github.com/soswav/readiscord/ && cp ~/readiscord/readiscord.theme.css /path/to/themes/`
+or for linux users, `git clone https://github.com/soswav/readiscord/ && cp ~/readiscord/readiscord.css /path/to/themes/`
 
 todo list:
 add a uppercase option (never)
+
+found a bug or something i missed? open a [issue](https://github.com/soswav/readiscord/issues)!
