@@ -31,9 +31,9 @@ download the `https://github.com/soswav/readiscord/readiscord.css` and paste in 
 ##### on fedora use `sudo dnf install git`
 
 #### on windows:
-go to `https://git-scm.com/` and download it, make sure to click on something with "path" (so you can use command "git")
+go to [whatever search engine you use](https://4get.ca) and find it, then download it and then make sure to click on something with "path" (so you can use command "git")
 
-### installing it
+### final step for sueper cool gmaer way
 
 after installing git you can finally run
 
