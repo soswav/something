@@ -37,7 +37,8 @@ go to [whatever search engine you use](https://4get.ca) and find it, then downlo
 
 after installing git you can finally run
 
-windows: `git clone https://soswav/readiscord/ && copy /path/to/clone /path/to/themes`
-linux: `git clone https://github.com/soswav/readiscord/ && cp ~/readiscord/readiscord.css ~/.var/app/dev.vencord.Vesktop/config/VencordDesktop/VencordDesktop`
+on windows: `git clone https://soswav/readiscord/ && copy /path/to/clone /path/to/themes`
+
+on linux: `git clone https://github.com/soswav/readiscord/ && cp ~/readiscord/readiscord.css ~/.var/app/dev.vencord.Vesktop/config/VencordDesktop/VencordDesktop`
 
 found a bug or something i missed? open a [issue](https://github.com/soswav/readiscord/issues)!
