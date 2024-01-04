@@ -41,4 +41,14 @@ on windows: `git clone https://soswav/readiscord/ && copy /path/to/clone /path/t
 
 on linux: `git clone https://github.com/soswav/readiscord/ && cp ~/readiscord/readiscord.css ~/.var/app/dev.vencord.Vesktop/config/VencordDesktop/VencordDesktop && sudo rm -r ~/readiscord`
 
+`cp` will copy the file from the cloned folder to the vesktop flatpak themes folder
+
+`&&` will run the other command if the previous command was successful
+
+and `sudo rm -r` will remove the cloned folder as root (so you don't need to confirm)
+
+![](https://i.imgur.com/QsCCQ3d.png)
+
+showcase of the command given (flex)
+
 found a bug or something i missed? open a [issue](https://github.com/soswav/readiscord/issues)!
