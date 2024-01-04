@@ -39,6 +39,6 @@ after installing git you can finally run
 
 on windows: `git clone https://soswav/readiscord/ && copy /path/to/clone /path/to/themes`
 
-on linux: `git clone https://github.com/soswav/readiscord/ && cp ~/readiscord/readiscord.css ~/.var/app/dev.vencord.Vesktop/config/VencordDesktop/VencordDesktop`
+on linux: `git clone https://github.com/soswav/readiscord/ && cp ~/readiscord/readiscord.css ~/.var/app/dev.vencord.Vesktop/config/VencordDesktop/VencordDesktop && sudo rm -r ~/readiscord`
 
 found a bug or something i missed? open a [issue](https://github.com/soswav/readiscord/issues)!
