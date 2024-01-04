@@ -16,7 +16,7 @@
 
 /* code goes down 'ere, wowie */
 span, div, h2, input, button {
-   text-transform: lowercase !important;
+   text-transform: lowercase !important; /* you can change "lowercase" to "uppercase" */
 }
 
 /* shit code but works! */
