@@ -1,7 +1,7 @@
 # readiscord
 for those people with hoofdaphobia (and lowcayphobia)!
 
-this is a fork of the [reavision]([https://github.com/Commenter25/userstuffs/#reavision) userstyle thing for browsers (which makes everything lowercase, woah!)
+this is a fork of the [reavision](https://github.com/Commenter25/userstuffs/#reavision) userstyle thing for browsers (which makes everything lowercase, woah!)
 you can now ignore your friends scream at you because thats mean!!
 
 # screenshots
