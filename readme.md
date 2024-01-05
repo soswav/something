@@ -16,12 +16,12 @@ themes tab on vencord
 
 # installation methodss sss ssss s
 ## vencord
-go to `https://github.com/soswav/readiscord/readiscord.css`, click on `raw` then copy the link of the page
+go to `[https://github.com/soswav/readiscord/readiscord.css](https://github.com/soswav/readiscord/blob/main/readiscord.css)`, click on `raw` then copy the link of the page
 
 go to `themes` then `online themes` and paste it below
 
 ## other discord modifiers
-download the `https://github.com/soswav/readiscord/readiscord.css` and paste in  your themes folder, it should (hopefully) work nicely!
+download the `https://github.com/soswav/readiscord/blob/main/readiscord.css` and paste in  your themes folder, it should (hopefully) work nicely!
 
 ## super cool gamer way
 ### download git 
