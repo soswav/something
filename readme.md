@@ -37,7 +37,7 @@ go to [whatever search engine you use](https://4get.ca) and find it, then downlo
 
 after installing git you can finally run
 
-on windows: `git clone https://soswav/readiscord/ && copy /path/to/clone /path/to/themes`
+on windows: `git clone https://github.com/soswav/readiscord/ && copy /path/to/clone /path/to/themes`
 
 on linux: `git clone https://github.com/soswav/readiscord/ && cp ~/readiscord/readiscord.css ~/.var/app/dev.vencord.Vesktop/config/VencordDesktop/VencordDesktop && sudo rm -r ~/readiscord`
 
@@ -46,6 +46,10 @@ on linux: `git clone https://github.com/soswav/readiscord/ && cp ~/readiscord/re
 `&&` will run the other command if the previous command was successful
 
 and `sudo rm -r` will remove the cloned folder as root (so you don't need to confirm)
+
+alt for linux users if you don't want to use sudo
+
+`curl -O https://github.com/soswav/readiscord/readiscord.css && mv ~/readiscord.css ~/.var/app/dev.vencord.Vesktop/config/VencordDesktop/VencordDesktop`
 
 ![](https://i.imgur.com/QsCCQ3d.png)
 
