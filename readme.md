@@ -16,7 +16,7 @@ themes tab on vencord
 
 # installation methodss sss ssss s
 ## vencord
-go to `(https://github.com/soswav/readiscord/blob/main/readiscord.css`, click on `raw` then copy the link of the page
+go to `https://github.com/soswav/readiscord/blob/main/readiscord.css`, click on `raw` then copy the link of the page
 
 go to `themes` then `online themes` and paste it below
 
