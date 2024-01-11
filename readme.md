@@ -51,8 +51,4 @@ alt for linux users if you don't want to use sudo
 
 `curl -O https://github.com/soswav/readiscord/readiscord.css && mv ~/readiscord.css ~/.var/app/dev.vencord.Vesktop/config/VencordDesktop/VencordDesktop`
 
-![](https://i.imgur.com/QsCCQ3d.png)
-
-showcase of the command given (flex)
-
 found a bug or something i missed? open a [issue](https://github.com/soswav/readiscord/issues)!
