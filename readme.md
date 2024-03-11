@@ -1,54 +1,42 @@
-# readiscord
-for those people with hoofdaphobia (and lowcayphobia)!
+# colorscheme cheatsheet (for myself)
+n0tch2k
 
-this is a fork of the [reavision](https://github.com/Commenter25/userstuffs/#reavision) userstyle thing for browsers (which makes everything lowercase, woah!)
-you can now ignore your friends scream at you because thats mean!!
+### blue
+4. blue `#657d3d`
 
-# screenshots
-![](https://i.imgur.com/bgEZ21b.png)
-![](https://i.imgur.com/pGMF4Zg.png)
+12. blue light `#98bd5e`
 
+### black
+0. black `#383838`
 
-themes on and off
+8. black light `#474747`
 
-![](https://i.imgur.com/G1z94kX.png)
-themes tab on vencord
+### green
+2. green `#657d3d`
 
-# installation methodss sss ssss s
-## vencord
-go to `https://github.com/soswav/readiscord/blob/main/readiscord.css`, click on `raw` then copy the link of the page
+10. green light `#98bd5e`
 
-go to `themes` then `online themes` and paste it below
+### red
+1. red `#a95551`
 
-## other discord modifiers
-download the `https://github.com/soswav/readiscord/blob/main/readiscord.css` and paste in  your themes folder, it should (hopefully) work nicely!
+9. red light `#a97775`
 
-## super cool gamer way
-### download git 
-#### on linux:
-##### on debian/ubuntu use `sudo apt install git`
-##### on arch use `sudo pacman -S git`
-##### on fedora use `sudo dnf install git`
+## yellow
+3. yellow `#a98051`
 
-#### on windows:
-go to [whatever search engine you use](https://4get.ca) and find it, then download it and then make sure to click on something with "path" (so you can use command "git")
+11. yellow light `#a99175`
 
-### final step for sueper cool gmaer way
+### magenta
+5. magenta `#767676`
 
-after installing git you can finally run
+13. magenta light `#a3a3a3`
 
-on windows: `git clone https://github.com/soswav/readiscord/ && copy /path/to/clone /path/to/themes`
+### cyan
+6. cyan `#c9c9c9`
 
-on linux: `git clone https://github.com/soswav/readiscord/ && cp ~/readiscord/readiscord.css ~/.var/app/dev.vencord.Vesktop/config/VencordDesktop/VencordDesktop && sudo rm -r ~/readiscord`
+14. cyan light ` #dcdcdc`
 
-`cp` will copy the file from the cloned folder to the vesktop flatpak themes folder
+### misc 
+selection foreground `#222222`
 
-`&&` will run the other command if the previous command was successful
-
-and `sudo rm -r` will remove the cloned folder as root (so you don't need to confirm)
-
-alt for linux users if you don't want to use sudo
-
-`curl -O https://github.com/soswav/readiscord/readiscord.css && mv ~/readiscord.css ~/.var/app/dev.vencord.Vesktop/config/VencordDesktop/VencordDesktop`
-
-found a bug or something i missed? open a [issue](https://github.com/soswav/readiscord/issues)!
+selection background `#4d4d4d`
