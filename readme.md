@@ -21,7 +21,7 @@ n0tch2k
 
 9. red light `#a97775`
 
-## yellow
+### yellow
 3. yellow `#a98051`
 
 11. yellow light `#a99175`
@@ -40,3 +40,7 @@ n0tch2k
 selection foreground `#222222`
 
 selection background `#4d4d4d`
+
+### screenshots
+![screenshot showing Neofetch](https://github.com/soswav/something/assets/154848161/023364c9-b8a4-4797-9b06-1f14600f4204)
+![screenshot showing both Neofetch and cowsay](https://github.com/soswav/something/assets/154848161/9030a52f-6e39-46be-bea0-424b99cca072)
