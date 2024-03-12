@@ -43,12 +43,17 @@ selection foreground `#222222`
 
 selection background `#4d4d4d`
 
-### screenshots & resources
+### other shit!!
 #### screenshots
 ![screenshot showing Neofetch](https://github.com/soswav/something/assets/154848161/023364c9-b8a4-4797-9b06-1f14600f4204)
 ![screenshot showing both Neofetch and cowsay](https://github.com/soswav/something/assets/154848161/9030a52f-6e39-46be-bea0-424b99cca072)
 ![image](https://github.com/soswav/something/assets/154848161/cb883bf7-685f-4479-b3c4-922c92ce998c)
 
 #### resources
-
 [firefox color](https://color.firefox.com/?theme=XQAAAAIBAQAAAAAAAABBKYhm849SCia2CaaEGccwS-xMDPsBebHDOMsy5fmNc7qTuOgZgK-DaVRw8wArn0Weu6teBLOHd30ozMe_CujMIzwvrLISuUtPgANdPi7izeu6ABYfm5FHUFeMQijbavXMzrhj8cppJVyBV5VNFOuwqwZm3rqehJOI0IDvTDzCCF2oKySVwPOxdhNM__1-3eA) \\ made by me!
+
+#### wallpapppapers
+![plane.png](https://i.imgur.com/CFCwbv0.png)
+![trains.png](https://i.imgur.com/748Zrfl.jpeg)
+![](https://i.imgur.com/qlZsCYr.png)
+![](https://i.imgur.com/U2e19VP.png)
